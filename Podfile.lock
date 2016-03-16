@@ -1,0 +1,13 @@
+PODS:
+  - GoogleAnalytics (3.14.0)
+  - Swiftalytics (0.2)
+
+DEPENDENCIES:
+  - GoogleAnalytics
+  - Swiftalytics (~> 0.2)
+
+SPEC CHECKSUMS:
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  Swiftalytics: 6844534a9fbbbc4d10f15b6f1b482a2c16a3a327
+
+COCOAPODS: 0.39.0
